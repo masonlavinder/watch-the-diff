@@ -1,0 +1,15 @@
+{
+  "byte_length": 622579,
+  "company_slug": "google",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-05-15T08:43:18.489817+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Google Privacy Policy",
+  "policy_region": null,
+  "sha256": "64d6fca0f8a8c7fab4c116d8bef4ad1f59d41052d8cf89b9205cb77f01ad013c",
+  "snapshot_date": "2026-05-15",
+  "source": "live",
+  "text_length": 61674,
+  "url": "https://policies.google.com/privacy"
+}

@@ -1,6 +1,26 @@
 {
   "changes": [
     {
+      "added_count": 8,
+      "company_name": "Adobe",
+      "company_slug": "adobe",
+      "date": "2026-05-16",
+      "from_date": "2026-05-15",
+      "id": "adobe-ai_terms-2026-05-15-2026-05-16",
+      "modified_count": 7,
+      "policy_kind": "ai_terms",
+      "policy_label": "Adobe Generative AI User Guidelines",
+      "removed_count": 9,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2026-05-16",
+      "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -2553,6 +2573,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-05-15T08:52:24.838643+00:00",
+  "generated_at": "2026-05-16T08:02:54.675693+00:00",
   "threshold": 4
 }

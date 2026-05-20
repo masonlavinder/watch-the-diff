@@ -4,6 +4,26 @@
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
+      "date": "2026-05-20",
+      "from_date": "2026-05-19",
+      "id": "paypal-privacy_policy-us-2026-05-19-2026-05-20",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "PayPal Privacy Statement (US)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-05-20",
+      "url": "https://www.paypal.com/us/legalhub/privacy-full"
+    },
+    {
+      "added_count": 0,
+      "company_name": "PayPal",
+      "company_slug": "paypal",
       "date": "2026-05-18",
       "from_date": "2026-05-17",
       "id": "paypal-privacy_policy-us-2026-05-17-2026-05-18",
@@ -2593,6 +2613,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-05-19T09:47:40.429872+00:00",
+  "generated_at": "2026-05-20T09:09:34.495066+00:00",
   "threshold": 4
 }

@@ -1,0 +1,15 @@
+{
+  "byte_length": 181738,
+  "company_slug": "netflix",
+  "content_type": "text/html;charset=UTF-8",
+  "fetched_at": "2026-05-22T08:54:07.833068+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Netflix Privacy Statement",
+  "policy_region": null,
+  "sha256": "84538853c8446a732df674242f71e24010469a8f4f96a23d10364ba0fc299adf",
+  "snapshot_date": "2026-05-22",
+  "source": "live",
+  "text_length": 69392,
+  "url": "https://help.netflix.com/legal/privacy"
+}

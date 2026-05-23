@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "PayPal",
+  "company_slug": "paypal",
+  "date": "2026-05-23",
+  "from_date": "2026-05-22",
+  "id": "paypal-privacy_policy-us-2026-05-22-2026-05-23",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "| Switzerland | PayPal Pte. Ltd. 5 Temasek Boulevard 09-01, Suntec Tower 5 Singapore 038985 Contact Online for Privacy queries |",
+      "before": "| Switzerland | PayPal (Europe) S.a.r.l. et Cie, S.C.A. 22-24 Boulevard Royal L-2449, Luxembourg Contact Online for Privacy queries |"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-05-23",
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

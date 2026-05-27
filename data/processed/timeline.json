@@ -1,6 +1,26 @@
 {
   "changes": [
     {
+      "added_count": 1,
+      "company_name": "Reddit",
+      "company_slug": "reddit",
+      "date": "2026-05-27",
+      "from_date": "2026-05-21",
+      "id": "reddit-terms_of_service-2026-05-21-2026-05-27",
+      "modified_count": 57,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Reddit User Agreement",
+      "removed_count": 1,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout"
+      ],
+      "to_date": "2026-05-27",
+      "url": "https://www.redditinc.com/policies/user-agreement"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -2693,6 +2713,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-05-26T09:52:50.146312+00:00",
+  "generated_at": "2026-05-27T09:45:50.328117+00:00",
   "threshold": 4
 }

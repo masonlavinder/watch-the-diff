@@ -1,0 +1,261 @@
+{
+  "added_paragraphs": [
+    "Dutch VAT registration number: NL862872662B01"
+  ],
+  "company_name": "Reddit",
+  "company_slug": "reddit",
+  "date": "2026-05-27",
+  "from_date": "2026-05-21",
+  "id": "reddit-terms_of_service-2026-05-21-2026-05-27",
+  "llm_summary": "The Reddit User Agreement has been updated to include a Dutch VAT registration number and to change the effective date from March 31, 2026, to July 1, 2026. Additionally, several paragraphs were modified for clarity, but the content remains largely the same, with no substantive changes affecting user rights or obligations. A paragraph stating that the Terms are a legally binding agreement has been removed.",
+  "modified_paragraphs": [
+    {
+      "after": "Effective July 1, 2026. Last Revised May 26, 2026",
+      "before": "Effective March 31, 2026. Last Revised March 31, 2026"
+    },
+    {
+      "after": "- You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;",
+      "before": "You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;"
+    },
+    {
+      "after": "- You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;",
+      "before": "You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;"
+    },
+    {
+      "after": "- You are not barred from using the Services under all applicable laws; and",
+      "before": "You are not barred from using the Services under all applicable laws; and"
+    },
+    {
+      "after": "- You have not been permanently suspended or removed from the Services.",
+      "before": "You have not been permanently suspended or removed from the Services."
+    },
+    {
+      "after": "- license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;",
+      "before": "license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;"
+    },
+    {
+      "after": "- modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or",
+      "before": "modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or"
+    },
+    {
+      "after": "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).",
+      "before": "access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below)."
+    },
+    {
+      "after": "- Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;",
+      "before": "Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+    },
+    {
+      "after": "- Gain access to (or attempt to gain access to) another user\u2019s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;",
+      "before": "Gain access to (or attempt to gain access to) another user\u2019s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;"
+    },
+    {
+      "after": "- Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;",
+      "before": "Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;"
+    },
+    {
+      "after": "- Use the Services to violate applicable law or infringe any person\u2019s or entity\u2019s intellectual property rights or any other proprietary rights;",
+      "before": "Use the Services to violate applicable law or infringe any person\u2019s or entity\u2019s intellectual property rights or any other proprietary rights;"
+    },
+    {
+      "after": "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit\u2019s prior written consent is prohibited); or",
+      "before": "Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit\u2019s prior written consent is prohibited); or"
+    },
+    {
+      "after": "- Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.",
+      "before": "Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system."
+    },
+    {
+      "after": "- You agree to follow the Moderator Code of Conduct;",
+      "before": "You agree to follow the Moderator Code of Conduct;"
+    },
+    {
+      "after": "- You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;",
+      "before": "You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;"
+    },
+    {
+      "after": "- You are not, and may not represent that you are, authorized to act on behalf of Reddit;",
+      "before": "You are not, and may not represent that you are, authorized to act on behalf of Reddit;"
+    },
+    {
+      "after": "- You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;",
+      "before": "You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;"
+    },
+    {
+      "after": "- You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;",
+      "before": "You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;"
+    },
+    {
+      "after": "- If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and",
+      "before": "If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and"
+    },
+    {
+      "after": "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct.",
+      "before": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct."
+    },
+    {
+      "after": "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account (if you have chosen to provide a verified email address) or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.",
+      "before": "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+    },
+    {
+      "after": "- If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms.",
+      "before": "If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms."
+    },
+    {
+      "after": "- If you use any preview features, you must also agree to the Reddit Previews Terms.",
+      "before": "If you use any preview features, you must also agree to the Reddit Previews Terms."
+    },
+    {
+      "after": "- If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms.",
+      "before": "If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms."
+    },
+    {
+      "after": "- If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms.",
+      "before": "If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms."
+    },
+    {
+      "after": "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+      "before": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms."
+    },
+    {
+      "after": "Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words \u201cinclude,\u201d \u201cincludes,\u201d and \u201cincluding\u201d will be deemed to be followed by the words \u201cwithout limitation;\u201d (b) the words \u201csuch as,\u201d \u201cfor example,\u201d \u201ce.g.,\u201d and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word \u201cor\u201d is used in the inclusive sense of \u201cand/or\u201d and the terms \u201cor,\u201d \u201cany,\u201d and \u201ceither\u201d are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us.",
+      "before": "Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words \u201cinclude,\u201d \u201cincludes,\u201d and \u201cincluding\u201d will be deemed to be followed by the words \u201cwithout limitation;\u201d (b) the words \u201csuch as,\u201d \u201cfor example,\u201d \u201ce.g.,\u201d and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word \u201cor\u201d is used in the inclusive sense of \u201cand/or\u201d and the terms \u201cor,\u201d \u201cany,\u201d and \u201ceither\u201d are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language."
+    },
+    {
+      "after": "Hello, redditors and people of the Internet! This Reddit User Agreement (\u201cTerms\u201d) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the \u201cServices\u201d). If you live in the UK, you are contracting with Reddit, Inc., 548 Market Street, #16093, San Francisco, CA 94104 USA. If you live in the EEA or Switzerland, you are contracting with Reddit Netherlands B.V., Looiersgracht 43, 1016 VR Amsterdam, Netherlands. All references to \"Reddit\", \"we\", \"us\", or \"our\" shall refer to the applicable entity based on your residence.",
+      "before": "Hello, redditors and people of the Internet! This Reddit User Agreement (\u201cTerms\u201d) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the \u201cServices\u201d) provided by Reddit Netherlands B.V. (\u201cReddit,\u201d \u201cwe,\u201d \u201cus,\u201d or \u201cour\u201d)."
+    },
+    {
+      "after": "- You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;",
+      "before": "You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;"
+    },
+    {
+      "after": "- You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;",
+      "before": "You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;"
+    },
+    {
+      "after": "- You are not barred from using the Services under all applicable laws; and",
+      "before": "You are not barred from using the Services under all applicable laws; and"
+    },
+    {
+      "after": "- You have not been permanently suspended or removed from the Services.",
+      "before": "You have not been permanently suspended or removed from the Services."
+    },
+    {
+      "after": "- license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;",
+      "before": "license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;"
+    },
+    {
+      "after": "- modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or",
+      "before": "modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or"
+    },
+    {
+      "after": "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).",
+      "before": "access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below)."
+    },
+    {
+      "after": "We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won\u2019t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof. Nothing in this paragraph affects any statutory rights you may have under applicable law.",
+      "before": "We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won\u2019t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof."
+    },
+    {
+      "after": "- Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;",
+      "before": "Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+    },
+    {
+      "after": "- Gain access to (or attempt to gain access to) another user\u2019s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;",
+      "before": "Gain access to (or attempt to gain access to) another user\u2019s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;"
+    },
+    {
+      "after": "- Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;",
+      "before": "Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;"
+    },
+    {
+      "after": "- Use the Services to violate applicable law or infringe any person\u2019s or entity\u2019s intellectual property rights or any other proprietary rights;",
+      "before": "Use the Services to violate applicable law or infringe any person\u2019s or entity\u2019s intellectual property rights or any other proprietary rights;"
+    },
+    {
+      "after": "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit\u2019s prior written consent is prohibited); or",
+      "before": "Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit\u2019s prior written consent is prohibited); or"
+    },
+    {
+      "after": "- Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.",
+      "before": "Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system."
+    },
+    {
+      "after": "- You agree to follow the Moderator Code of Conduct;",
+      "before": "You agree to follow the Moderator Code of Conduct;"
+    },
+    {
+      "after": "- You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;",
+      "before": "You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;"
+    },
+    {
+      "after": "- You are not, and may not represent that you are, authorized to act on behalf of Reddit;",
+      "before": "You are not, and may not represent that you are, authorized to act on behalf of Reddit;"
+    },
+    {
+      "after": "- You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;",
+      "before": "You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;"
+    },
+    {
+      "after": "- You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;",
+      "before": "You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;"
+    },
+    {
+      "after": "- If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and",
+      "before": "If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and"
+    },
+    {
+      "after": "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct.",
+      "before": "You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct."
+    },
+    {
+      "after": "Except to the extent prohibited or considered unfair by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the \u201cReddit Entities\u201d) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys\u2019 fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.",
+      "before": "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the \u201cReddit Entities\u201d) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys\u2019 fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+    },
+    {
+      "after": "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account (if you have chosen to provide a verified email address) or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.",
+      "before": "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+    },
+    {
+      "after": "- If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms.",
+      "before": "If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms."
+    },
+    {
+      "after": "- If you use any preview features, you must also agree to the Reddit Previews Terms.",
+      "before": "If you use any preview features, you must also agree to the Reddit Previews Terms."
+    },
+    {
+      "after": "- If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms.",
+      "before": "If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms."
+    },
+    {
+      "after": "- If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms.",
+      "before": "If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms."
+    },
+    {
+      "after": "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+      "before": "If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Reddit User Agreement",
+  "removed_paragraphs": [
+    "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us."
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout"
+  ],
+  "to_date": "2026-05-27",
+  "url": "https://www.redditinc.com/policies/user-agreement"
+}

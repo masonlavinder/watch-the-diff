@@ -1,0 +1,69 @@
+{
+  "added_paragraphs": [],
+  "company_name": "PayPal",
+  "company_slug": "paypal",
+  "date": "2026-06-09",
+  "from_date": "2026-06-08",
+  "id": "paypal-privacy_policy-us-2026-06-08-2026-06-09",
+  "llm_summary": "The PayPal Privacy Statement underwent minor formatting changes, including punctuation adjustments and the removal of some unnecessary formatting elements. There were no substantive changes to the content or the way user information is handled. Overall, the updates appear to be cosmetic rather than affecting user privacy practices.",
+  "modified_paragraphs": [
+    {
+      "after": "PayPal, Inc. and our subsidiaries and affiliated companies (\"we,\" \"our,\" \"us,\" \"PayPal\", \"PayPal corporate group\") provide this Privacy Statement to describe our use of your Personal Information when you use your PayPal account(s), visit our websites (\"Sites\"), apply for, or use our Services (to the extent available in your jurisdiction). This Privacy Statement does not apply to Excluded Services.",
+      "before": "PayPal, Inc. and our subsidiaries and affiliated companies (\u201cwe,\u201d \u201cour,\u201d \u201cus,\u201d \u201cPayPal\u201d, \u201cPayPal corporate group\u201d) provide this Privacy Statement to describe our use of your Personal Information when you use your PayPal account(s), visit our websites (\u201cSites\u201d), apply for, or use our Services (to the extent available in your jurisdiction). This Privacy Statement does not apply to Excluded Services."
+    },
+    {
+      "after": "This Privacy Statement does not apply when Personal Information is processed by certain third parties, for example, authorities, credit bureaus, acquirers, and other financial institutions. Instead, the third parties' processing of your Personal Information is regulated by their own privacy policies. We encourage you to read the third parties' privacy policies and know your privacy rights before interacting with them.",
+      "before": "This Privacy Statement does not apply when Personal Information is processed by certain third parties, for example, authorities, credit bureaus, acquirers, and other financial institutions. Instead, the third parties\u2019 processing of your Personal Information is regulated by their own privacy policies. We encourage you to read the third parties\u2019 privacy policies and know your privacy rights before interacting with them."
+    },
+    {
+      "after": "We may revise this Privacy Statement from time to time to reflect changes to our business, Services, or applicable laws. If the revised version requires notice in accordance with applicable law, we will provide you with 30 days' prior notice by posting notice of the change on the Policy Updates or \"Privacy Statement\" page of our website, otherwise the revised Privacy Statement will be effective as of the published effective date. If you are a new User or are receiving this Privacy Statement for the first time, and there is an upcoming change described on the Policy Updates or Privacy Statement page at the time you receive this Privacy Statement, such upcoming change will apply to you on the indicated effective date.",
+      "before": "We may revise this Privacy Statement from time to time to reflect changes to our business, Services, or applicable laws. If the revised version requires notice in accordance with applicable law, we will provide you with 30 days\u2019 prior notice by posting notice of the change on the Policy Updates or \"Privacy Statement\" page of our website, otherwise the revised Privacy Statement will be effective as of the published effective date. If you are a new User or are receiving this Privacy Statement for the first time, and there is an upcoming change described on the Policy Updates or Privacy Statement page at the time you receive this Privacy Statement, such upcoming change will apply to you on the indicated effective date."
+    },
+    {
+      "after": "\u2022 Log into the Hyperwallet Pay Portal (Go to \"Support,\" select \"Email\" and complete the form for \"Privacy Concerns\").",
+      "before": "\u2022 Log into the Hyperwallet Pay Portal (Go to \u201cSupport,\u201d select \u201cEmail\u201d and complete the form for \u201cPrivacy Concerns\u201d)."
+    },
+    {
+      "after": "Authenticate you for certain actions related to your account, including to:",
+      "before": "| Biometric | Authenticate you for certain actions related to your account, including to:"
+    },
+    {
+      "after": "The following Notice for Consumers of Financial Products and Services does not apply to Unbranded Payment Services. Please note, the definition of \"personal information\" for this portion of the Privacy Statement has the meaning given to it by the Gramm-Leach-Bliley Act.",
+      "before": "The following Notice for Consumers of Financial Products and Services does not apply to Unbranded Payment Services. Please note, the definition of \u201cpersonal information\u201d for this portion of the Privacy Statement has the meaning given to it by the Gramm-Leach-Bliley Act."
+    },
+    {
+      "after": "| How? | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons PayPal chooses to share; and whether you can limit this sharing. |",
+      "before": "| How? | All financial companies need to share customers\u2019 personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers\u2019 personal information; the reasons PayPal chooses to share; and whether you can limit this sharing. |"
+    },
+    {
+      "after": "| For our affiliates' everyday business purposes \u2013 information about your transactions and experiences | Yes | No |",
+      "before": "| For our affiliates\u2019 everyday business purposes \u2013 information about your transactions and experiences | Yes | No |"
+    },
+    {
+      "after": "| For our affiliates' everyday business purposes \u2013 information about your creditworthiness | Yes | Yes |",
+      "before": "| For our affiliates\u2019 everyday business purposes \u2013 information about your creditworthiness | Yes | Yes |"
+    },
+    {
+      "after": "In general, the Luxembourg laws to which PayPal's handling of user Personal Information is subject (data protection and bank secrecy) require a higher degree of transparency than most other EU laws. This is why, unlike the vast majority of providers of internet-based services or financial services in the EU, PayPal has listed in this Privacy Statement the third party service providers and business partners to whom we may disclose your Personal Information, together with the purpose of disclosure and type of information disclosed. You can review those third parties. By accepting this Privacy Statement and maintaining an account with PayPal, you expressly agree to the transfer of your Personal Information to those third parties for the purposes listed.",
+      "before": "In general, the Luxembourg laws to which PayPal\u2019s handling of user Personal Information is subject (data protection and bank secrecy) require a higher degree of transparency than most other EU laws. This is why, unlike the vast majority of providers of internet-based services or financial services in the EU, PayPal has listed in this Privacy Statement the third party service providers and business partners to whom we may disclose your Personal Information, together with the purpose of disclosure and type of information disclosed. You can review those third parties. By accepting this Privacy Statement and maintaining an account with PayPal, you expressly agree to the transfer of your Personal Information to those third parties for the purposes listed."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "regional-carveout"
+  ],
+  "to_date": "2026-06-09",
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

@@ -1,6 +1,26 @@
 {
   "changes": [
     {
+      "added_count": 15,
+      "company_name": "Spotify",
+      "company_slug": "spotify",
+      "date": "2026-06-13",
+      "from_date": "2026-06-12",
+      "id": "spotify-privacy_policy-us-2026-06-12-2026-06-13",
+      "modified_count": 26,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Spotify Privacy Policy",
+      "removed_count": 3,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "data-retention-change",
+        "third-party-sharing"
+      ],
+      "to_date": "2026-06-13",
+      "url": "https://www.spotify.com/us/legal/privacy-policy/"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -2898,6 +2918,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-06-12T10:13:37.553337+00:00",
+  "generated_at": "2026-06-13T08:58:59.538413+00:00",
   "threshold": 4
 }

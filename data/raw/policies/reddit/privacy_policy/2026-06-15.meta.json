@@ -1,0 +1,15 @@
+{
+  "byte_length": 8447,
+  "company_slug": "reddit",
+  "content_type": "text/html",
+  "fetched_at": "2026-06-15T11:53:03.960054+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Reddit Privacy Policy",
+  "policy_region": null,
+  "sha256": "d40ab6a2ad2c10e84f9ea48fffed80e7e8f7c834c758d4dad1b1e691d90fd3a7",
+  "snapshot_date": "2026-06-15",
+  "source": "live",
+  "text_length": 38,
+  "url": "https://www.redditinc.com/policies/privacy-policy"
+}

@@ -1,0 +1,15 @@
+{
+  "byte_length": 1065951,
+  "company_slug": "uber",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-06-18T10:13:10.363802+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "policy_region": null,
+  "sha256": "b3d51dbf018f891103df69dfb57bd64b7e830b6cff70dec98a9035ff38bc9cee",
+  "snapshot_date": "2026-06-18",
+  "source": "live",
+  "text_length": 43173,
+  "url": "https://privacy.uber.com/policy/"
+}

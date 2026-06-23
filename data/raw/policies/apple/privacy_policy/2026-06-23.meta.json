@@ -1,0 +1,15 @@
+{
+  "byte_length": 141426,
+  "company_slug": "apple",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-06-23T09:29:01.712972+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Apple Privacy Policy",
+  "policy_region": null,
+  "sha256": "ee2bd5a4d019a349d7f442bacbfc85ec9f4bce1da6429090907b5d5f1ae2d8b4",
+  "snapshot_date": "2026-06-23",
+  "source": "live",
+  "text_length": 27731,
+  "url": "https://www.apple.com/legal/privacy/en-ww/"
+}

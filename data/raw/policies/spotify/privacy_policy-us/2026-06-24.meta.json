@@ -1,0 +1,15 @@
+{
+  "byte_length": 195304,
+  "company_slug": "spotify",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-06-24T08:57:56.646527+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Spotify Privacy Policy",
+  "policy_region": "US",
+  "sha256": "9d48138ca064e88334c1990ed1c17c5cb4e9a23a0ce478de5cc2d8b55bc4eb36",
+  "snapshot_date": "2026-06-24",
+  "source": "live",
+  "text_length": 32485,
+  "url": "https://www.spotify.com/us/legal/privacy-policy/"
+}

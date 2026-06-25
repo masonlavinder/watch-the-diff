@@ -1,0 +1,15 @@
+{
+  "byte_length": 318321,
+  "company_slug": "amazon",
+  "content_type": "text/html;charset=utf-8",
+  "fetched_at": "2026-06-25T08:52:26.894769+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "AWS Privacy Notice",
+  "policy_region": "AWS",
+  "sha256": "b17e3b90c545ca4c5fe1b73c6a31ea22f5f6eb52930e7a8483ef74bbc93a6dfd",
+  "snapshot_date": "2026-06-25",
+  "source": "live",
+  "text_length": 49235,
+  "url": "https://aws.amazon.com/privacy/"
+}

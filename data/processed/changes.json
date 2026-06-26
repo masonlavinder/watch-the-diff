@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "added_count": 274,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
+      "date": "2026-06-26",
+      "from_date": "2026-06-25",
+      "id": "microsoft-privacy_policy-2026-06-25-2026-06-26",
+      "modified_count": 213,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Microsoft Privacy Statement",
+      "removed_count": 539,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "ai-training-restriction",
+        "data-retention-change",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial",
+        "minors",
+        "opt-out-mechanism",
+        "encryption-change"
+      ],
+      "to_date": "2026-06-26",
+      "url": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -3857,5 +3884,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-06-25T09:00:31.781872+00:00"
+  "generated_at": "2026-06-26T09:12:07.962416+00:00"
 }

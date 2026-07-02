@@ -1,0 +1,50 @@
+{
+  "added_paragraphs": [
+    "- use Login with Amazon or otherwise link your Amazon account to a third-party business;",
+    "- information about how you interact with ads served by Amazon on third-party websites and apps (learn more in our Interest-Based Ads notice);",
+    "- content we receive from third parties to provide, develop, and improve Amazon Services, such as advertising-related information and identifiers (as described in more detail in our Interest-Based Ads notice);"
+  ],
+  "company_name": "Amazon",
+  "company_slug": "amazon",
+  "date": "2026-07-02",
+  "from_date": "2026-06-30",
+  "id": "amazon-privacy_policy-2026-06-30-2026-07-02",
+  "llm_summary": "The Amazon Privacy Notice was updated to include new information about linking your Amazon account to third-party businesses and how Amazon interacts with ads on third-party sites. Additionally, there is a new emphasis on the use of machine learning and artificial intelligence to enhance customer experience, including the development of generative AI models. A section about search results and paid listings was removed, and the last updated date was changed to June 30, 2026.",
+  "modified_paragraphs": [
+    {
+      "after": "Last updated: June 30, 2026. View the prior version of this Privacy Notice.",
+      "before": "Last updated: December 31, 2025. View the prior version of this Privacy Notice."
+    },
+    {
+      "after": "- Information from Other Sources: We might receive information about you from other sources. For example, our carriers may provide us with updated delivery and address information, which we use to keep our records current and make delivery of your future purchases easier.",
+      "before": "- Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily."
+    },
+    {
+      "after": "- Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services. In so doing, we use machine learning and artificial intelligence to support and enhance the customer experience across our products and services. This includes using data to develop or deploy our generative AI models and services. See our Generative AI Development Disclosure for more information.",
+      "before": "- Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services."
+    },
+    {
+      "after": "- Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (for example, by phone, email or chat).",
+      "before": "- Communicate with you. We use your personal information to communicate with you in relation to Amazon Services via different channels (for example, by phone, email, chat)."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Amazon Privacy Notice",
+  "removed_paragraphs": [
+    "- search results and links, including paid listings (such as Sponsored Links);"
+  ],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2026-07-02",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+}

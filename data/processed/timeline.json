@@ -1,6 +1,25 @@
 {
   "changes": [
     {
+      "added_count": 3,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2026-07-02",
+      "from_date": "2026-06-30",
+      "id": "amazon-privacy_policy-2026-06-30-2026-07-02",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Amazon Privacy Notice",
+      "removed_count": 1,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2026-07-02",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -3105,6 +3124,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-07-01T09:54:00.156522+00:00",
+  "generated_at": "2026-07-02T09:04:53.872874+00:00",
   "threshold": 4
 }

@@ -1,0 +1,15 @@
+{
+  "byte_length": 1657250,
+  "company_slug": "paypal",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-07-05T08:46:07.533120+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "policy_region": "US",
+  "sha256": "5a7ed1e9a17a1e0945ff2ce322d5dd8eec11f54154ad97cc4e25ae2a5b6a05ff",
+  "snapshot_date": "2026-07-05",
+  "source": "live",
+  "text_length": 43071,
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

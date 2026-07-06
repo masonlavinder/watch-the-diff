@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "PayPal",
+  "company_slug": "paypal",
+  "date": "2026-07-06",
+  "from_date": "2026-07-05",
+  "id": "paypal-privacy_policy-us-2026-07-05-2026-07-06",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "| Israel | PayPal Israel Payment Services LTD 98 Yigal Alon St., Tel-Aviv, Israel 6789141 Contact Online for Privacy queries |",
+      "before": "| Israel | PayPal Pte. Ltd. 5 Temasek Boulevard 09-01 Suntec Tower 5 Singapore 038985 Contact Online for Privacy queries |"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-07-06",
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

@@ -1,0 +1,38 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Uber",
+  "company_slug": "uber",
+  "date": "2026-07-08",
+  "from_date": "2026-07-07",
+  "id": "uber-privacy_policy-2026-07-07-2026-07-08",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "European Economic Area (\u201cEEA\u201d), United Kingdom (\u201cUK\u201d), and Switzerland",
+      "before": "- European Economic Area (\u201cEEA\u201d), United Kingdom (\u201cUK\u201d), and Switzerland"
+    },
+    {
+      "after": "Personalized marketing communications from Uber",
+      "before": "- Personalized marketing communications from Uber"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "removed_paragraphs": [
+    "- Objections, restrictions and complaints"
+  ],
+  "score": 2,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 0,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 2
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-07-08",
+  "url": "https://privacy.uber.com/policy/"
+}

@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Anthropic",
+  "company_slug": "anthropic",
+  "date": "2026-07-09",
+  "from_date": "2026-07-08",
+  "id": "anthropic-privacy_policy-2026-07-08-2026-07-09",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "removed_paragraphs": [
+    "This policy was published on June 8, 2026 with an effective date of July 8, 2026."
+  ],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-07-09",
+  "url": "https://www.anthropic.com/legal/privacy"
+}

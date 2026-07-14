@@ -1,0 +1,72 @@
+{
+  "added_paragraphs": [
+    "You have the right to be informed, access, correct, or request the destruction of your personal data. You may also withdraw consent where applicable. Please refer to our Privacy Notice for further information about your rights.",
+    "To exercise these rights or contact Uber\u2019s Data Protection Officer (DPO), please click here.",
+    "If you believe your data has been handled in violation of the PDPL, you have the right to lodge a complaint with the Saudi Data & Artificial Intelligence Authority (SDAIA) here.",
+    "If you have any questions, comments and requests related to the Privacy Notice, you may also contact Uber by mail to:",
+    "- Local Office: Uber Saudi Limited, Building No. 6247, Al Olaya St., Al Muruj Dist., Riyadh 12281 - 2783, Kingdom of Saudi Arabia (Short Address: RHGA6247).",
+    "- Global HQ: Uber Technologies, Inc., 1515 3rd Street, San Francisco, CA 94158.",
+    "- UTI and TYG Turkey Elektronik Ticaret Hizmetleri ve Yat\u0131r\u0131mlar\u0131 A.\u015e. are joint controllers of the data processed when you use Uber Eats services in T\u00fcrkiye."
+  ],
+  "company_name": "Uber",
+  "company_slug": "uber",
+  "date": "2026-07-14",
+  "from_date": "2026-07-13",
+  "id": "uber-privacy_policy-2026-07-13-2026-07-14",
+  "llm_summary": "Uber's Privacy Notice now includes specific rights for users in Saudi Arabia, such as the right to access, correct, or request the destruction of personal data, and the ability to lodge complaints with the Saudi Data & Artificial Intelligence Authority. The document also clarifies that Uber Saudi Limited acts as the local representative for data processing in Saudi Arabia. Additionally, the wording has been updated for consistency, such as changing \"LOA\" to \"life of account\" in several sections.",
+  "modified_paragraphs": [
+    {
+      "after": "This notice describes how we collect and use your data if you request or receive products or services through Uber\u2019s apps or websites, except when you use Uber Freight, TrendyolGo App/website or Careem Rides.",
+      "before": "This notice describes how we collect and use your data if you request or receive products or services through Uber\u2019s apps or websites, except when you use Uber Freight or Careem Rides."
+    },
+    {
+      "after": "The Saudi Personal Data Protection Law (PDPL) applies to our processing of personal data within the Kingdom of Saudi Arabia. In accordance with the PDPL, Uber Saudi Limited acts as the local representative of the data controller i.e. Uber Technologies Inc.",
+      "before": "The Personal Data Protection Law (PDPL) applies to data processed within the Kingdom of Saudi Arabia. You may contact Uber here regarding Uber\u2019s compliance with, or to request exercise of your rights under, the PDPL."
+    },
+    {
+      "after": "- for as long as you maintain your Uber account (i.e., the life of your account) where it is necessary in order for Uber to provide its service. This includes account information, like your first and last name, email, phone number and payment information.",
+      "before": "- for as long as you maintain your Uber account (i.e., the life of your account, or \u201cLOA\u201d) where it is necessary in order for Uber to provide its service. This includes account information, like your first and last name, email, phone number and payment information."
+    },
+    {
+      "after": "Communications | The sooner of life of account or 7 years |",
+      "before": "Communications | The sooner of LOA or 7 years |"
+    },
+    {
+      "after": "Location Data | The sooner of life of account or 7 years |",
+      "before": "Location Data | The sooner of LOA or 7 years |"
+    },
+    {
+      "after": "Trip/Order | The sooner of life of account or 7 years |",
+      "before": "Trip/Order | The sooner of LOA or 7 years |"
+    },
+    {
+      "after": "Usage Data | The sooner of life of account or 7 years |",
+      "before": "Usage Data | The sooner of LOA or 7 years |"
+    },
+    {
+      "after": "- UT LLC is the controller of the data processed when you use Uber services in South Korea.",
+      "before": "- UT LLC is controller of the data processed when you use Uber services in South Korea."
+    },
+    {
+      "after": "Data protection laws in some countries and areas, including the EEA, UK, Switzerland, Brazil, T\u00fcrkiye and Nigeria, only allow Uber to use your data when certain circumstances defined under those laws apply. This is called having a \u201clegal basis\u201d for using your data. The applicability of these legal bases may depend on your location. The chart below indicates the legal bases that Uber has under those laws when they do apply, and it uses your data for the purposes described in this notice.",
+      "before": "Data protection laws in some countries and areas, including the EEA, UK, Switzerland, Brazil and Nigeria, only allow Uber to use your data when certain circumstances defined under those laws apply. This is called having a \u201clegal basis\u201d for using your data. The applicability of these legal bases may depend on your location. The chart below indicates the legal bases that Uber has under those laws when they do apply, and it uses your data for the purposes described in this notice."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-07-14",
+  "url": "https://privacy.uber.com/policy/"
+}

@@ -1,0 +1,36 @@
+{
+  "added_paragraphs": [],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2026-07-16",
+  "from_date": "2026-07-15",
+  "id": "tiktok-privacy_policy-us-2026-07-15-2026-07-16",
+  "llm_summary": "The TikTok Privacy Policy now includes a reference for teens, directing them to a \"Privacy Policy - Teen Summary\" for a clearer understanding of the policy. Additionally, the definition of \"Children\" has been updated to include users who are 13 years old in Florida, alongside those under age 13. No other substantive changes were made to the document.",
+  "modified_paragraphs": [
+    {
+      "after": "We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users and other individuals in connection with the Services. For information about how we collect, use, share, and otherwise process consumer health data as defined under Washington\u2019s My Health My Data Act and other similar state laws, please refer to the Consumer Health Data Privacy Policy. If you are a teen, please see the Privacy Policy - Teen Summary for a summary of this Privacy Policy.",
+      "before": "We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users and other individuals in connection with the Services. For information about how we collect, use, share, and otherwise process consumer health data as defined under Washington\u2019s My Health My Data Act and other similar state laws, please refer to the Consumer Health Data Privacy Policy."
+    },
+    {
+      "after": "The privacy of children is important to us. We provide a separate experience for users under age 13 (\u201cChild\u201d or \u201cChildren\u201d) (as well as users who are 13 years old in Florida) in the United States, in which we collect and process only limited information. Please see our Children\u2019s Privacy Policy to learn more.",
+      "before": "The privacy of children is important to us. We provide a separate experience for users under age 13 (\u201cChild\u201d or \u201cChildren\u201d) in the United States, in which we collect and process only limited information. Please see our Children\u2019s Privacy Policy to learn more."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "minors"
+  ],
+  "to_date": "2026-07-16",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+}

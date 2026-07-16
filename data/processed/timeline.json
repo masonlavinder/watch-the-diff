@@ -2,6 +2,25 @@
   "changes": [
     {
       "added_count": 0,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-07-16",
+      "from_date": "2026-07-15",
+      "id": "tiktok-privacy_policy-us-2026-07-15-2026-07-16",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (US)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "minors"
+      ],
+      "to_date": "2026-07-16",
+      "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+    },
+    {
+      "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
       "date": "2026-07-15",
@@ -3263,6 +3282,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-07-15T08:15:52.478343+00:00",
+  "generated_at": "2026-07-16T08:20:34.438521+00:00",
   "threshold": 4
 }

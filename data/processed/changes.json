@@ -1,6 +1,28 @@
 {
   "changes": [
     {
+      "added_count": 2,
+      "company_name": "Samsung",
+      "company_slug": "samsung",
+      "date": "2026-07-22",
+      "from_date": "2026-07-21",
+      "id": "samsung-privacy_policy-us-2026-07-21-2026-07-22",
+      "modified_count": 17,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Samsung Privacy Policy (US)",
+      "removed_count": 3,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-07-22",
+      "url": "https://www.samsung.com/us/account/privacy-policy/"
+    },
+    {
       "added_count": 0,
       "company_name": "Uber",
       "company_slug": "uber",
@@ -4228,5 +4250,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-07-21T08:32:29.473110+00:00"
+  "generated_at": "2026-07-22T08:29:58.005428+00:00"
 }

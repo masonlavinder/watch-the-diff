@@ -1,6 +1,44 @@
 {
   "changes": [
     {
+      "added_count": 8,
+      "company_name": "TikTok",
+      "company_slug": "tiktok",
+      "date": "2026-07-31",
+      "from_date": "2026-07-30",
+      "id": "tiktok-privacy_policy-row-2026-07-30-2026-07-31",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "TikTok Privacy Policy (ROW)",
+      "removed_count": 0,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-07-31",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+    },
+    {
+      "added_count": 0,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
+      "date": "2026-07-31",
+      "from_date": "2026-07-30",
+      "id": "microsoft-privacy_policy-2026-07-30-2026-07-31",
+      "modified_count": 47,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Microsoft Privacy Statement",
+      "removed_count": 1,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-07-31",
+      "url": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -4310,5 +4348,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-07-30T08:25:42.227958+00:00"
+  "generated_at": "2026-07-31T08:54:40.780362+00:00"
 }

@@ -2,6 +2,26 @@
   "changes": [
     {
       "added_count": 8,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
+      "date": "2026-08-04",
+      "from_date": "2026-08-03",
+      "id": "microsoft-terms_of_service-2026-08-03-2026-08-04",
+      "modified_count": 36,
+      "policy_kind": "terms_of_service",
+      "policy_label": "Microsoft Services Agreement",
+      "removed_count": 56,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2026-08-04",
+      "url": "https://www.microsoft.com/en-us/servicesagreement"
+    },
+    {
+      "added_count": 8,
       "company_name": "TikTok",
       "company_slug": "tiktok",
       "date": "2026-07-31",
@@ -4348,5 +4368,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-08-03T09:44:44.859188+00:00"
+  "generated_at": "2026-08-04T08:43:35.039990+00:00"
 }

@@ -1,6 +1,28 @@
 {
   "changes": [
     {
+      "added_count": 3,
+      "company_name": "Snap",
+      "company_slug": "snap",
+      "date": "2026-08-05",
+      "from_date": "2026-08-04",
+      "id": "snap-privacy_policy-2026-08-04-2026-08-05",
+      "modified_count": 24,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Snap Privacy Policy",
+      "removed_count": 0,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "dm-private-content",
+        "minors"
+      ],
+      "to_date": "2026-08-05",
+      "url": "https://values.snap.com/privacy/privacy-policy"
+    },
+    {
       "added_count": 8,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
@@ -4368,5 +4390,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-08-04T08:43:35.039990+00:00"
+  "generated_at": "2026-08-05T08:41:38.738479+00:00"
 }

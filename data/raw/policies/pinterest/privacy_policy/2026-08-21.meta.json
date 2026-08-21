@@ -1,0 +1,15 @@
+{
+  "byte_length": 337211,
+  "company_slug": "pinterest",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-08-21T06:35:24.757287+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "policy_region": null,
+  "sha256": "e11f74007cfd504b62694492c60216b06fd091db8256db786424f2342272c609",
+  "snapshot_date": "2026-08-21",
+  "source": "live",
+  "text_length": 19683,
+  "url": "https://policy.pinterest.com/en/privacy-policy"
+}

@@ -1,0 +1,15 @@
+{
+  "byte_length": 476671,
+  "company_slug": "anthropic",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-08-21T06:35:09.501902+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "Anthropic Consumer Terms",
+  "policy_region": null,
+  "sha256": "4e3794a2641bc7dcbb0a655f8d7953ec6fbeb043d00b4792b7d55cc762049c73",
+  "snapshot_date": "2026-08-21",
+  "source": "live",
+  "text_length": 28743,
+  "url": "https://www.anthropic.com/legal/consumer-terms"
+}

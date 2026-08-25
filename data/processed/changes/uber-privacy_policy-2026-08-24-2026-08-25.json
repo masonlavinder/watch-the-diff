@@ -1,0 +1,29 @@
+{
+  "added_paragraphs": [
+    "Uber will not sell or share your phone number with any third party to send you marketing or promotional text messages. This excludes service providers who assist us solely in executing and delivering our own text messaging services."
+  ],
+  "company_name": "Uber",
+  "company_slug": "uber",
+  "date": "2026-08-25",
+  "from_date": "2026-08-24",
+  "id": "uber-privacy_policy-2026-08-24-2026-08-25",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "removed_paragraphs": [],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2026-08-25",
+  "url": "https://privacy.uber.com/policy/"
+}

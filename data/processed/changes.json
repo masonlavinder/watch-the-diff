@@ -1,6 +1,25 @@
 {
   "changes": [
     {
+      "added_count": 1,
+      "company_name": "Uber",
+      "company_slug": "uber",
+      "date": "2026-08-25",
+      "from_date": "2026-08-24",
+      "id": "uber-privacy_policy-2026-08-24-2026-08-25",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Uber Privacy Notice",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2026-08-25",
+      "url": "https://privacy.uber.com/policy/"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -4609,5 +4628,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-08-24T06:56:59.881060+00:00"
+  "generated_at": "2026-08-25T06:48:43.574053+00:00"
 }

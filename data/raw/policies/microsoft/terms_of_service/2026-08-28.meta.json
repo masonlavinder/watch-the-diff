@@ -1,0 +1,15 @@
+{
+  "byte_length": 294767,
+  "company_slug": "microsoft",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-08-28T18:01:41.175406+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "policy_region": null,
+  "sha256": "bb36c37a574c36c6bc742ca55a11cc569bd12f9549671c90a01be905f48e0f00",
+  "snapshot_date": "2026-08-28",
+  "source": "live",
+  "text_length": 118131,
+  "url": "https://www.microsoft.com/en-us/servicesagreement"
+}

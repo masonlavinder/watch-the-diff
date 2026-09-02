@@ -1,0 +1,15 @@
+{
+  "byte_length": 320392,
+  "company_slug": "tiktok",
+  "content_type": "text/html",
+  "fetched_at": "2026-09-02T10:24:12.781231+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "policy_region": "ROW",
+  "sha256": "19b10c184d575d2af8f515156e2afb0879a51755518beccea81e4aaecb48ce21",
+  "snapshot_date": "2026-09-02",
+  "source": "live",
+  "text_length": 52431,
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

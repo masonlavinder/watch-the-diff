@@ -1,0 +1,27 @@
+{
+  "added_paragraphs": [
+    "You may contact Uber here to exercise your rights under Peruvian Data Protection Law or contact Uber's Data Protection Officer (DPO). You may also contact the data controller by mail at: Uber Technologies, Inc., 1725 3rd Street, San Francisco, CA 94158, United States."
+  ],
+  "company_name": "Uber",
+  "company_slug": "uber",
+  "date": "2026-09-02",
+  "from_date": "2026-09-01",
+  "id": "uber-privacy_policy-2026-09-01-2026-09-02",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-09-02",
+  "url": "https://privacy.uber.com/policy/"
+}

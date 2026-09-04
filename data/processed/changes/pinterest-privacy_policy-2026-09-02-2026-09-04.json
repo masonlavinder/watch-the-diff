@@ -1,0 +1,31 @@
+{
+  "added_paragraphs": [
+    "- State Privacy Law Disclosure & Notice at Collection",
+    "- We collect information in a few different ways",
+    "- Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information"
+  ],
+  "company_name": "Pinterest",
+  "company_slug": "pinterest",
+  "date": "2026-09-04",
+  "from_date": "2026-09-02",
+  "id": "pinterest-privacy_policy-2026-09-02-2026-09-04",
+  "llm_summary": null,
+  "modified_paragraphs": [],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Pinterest Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 8,
+  "score_breakdown": {
+    "add_only": 2,
+    "content": 3,
+    "heading_keyword": 1,
+    "tags": 2,
+    "total": 8
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-09-04",
+  "url": "https://policy.pinterest.com/en/privacy-policy"
+}

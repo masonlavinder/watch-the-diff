@@ -1,6 +1,25 @@
 {
   "changes": [
     {
+      "added_count": 3,
+      "company_name": "Pinterest",
+      "company_slug": "pinterest",
+      "date": "2026-09-04",
+      "from_date": "2026-09-02",
+      "id": "pinterest-privacy_policy-2026-09-02-2026-09-04",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Pinterest Privacy Policy",
+      "removed_count": 0,
+      "score": 8,
+      "source_type": "policy",
+      "tags": [
+        "regional-carveout"
+      ],
+      "to_date": "2026-09-04",
+      "url": "https://policy.pinterest.com/en/privacy-policy"
+    },
+    {
       "added_count": 1,
       "company_name": "Uber",
       "company_slug": "uber",
@@ -3799,6 +3818,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-09-03T11:02:10.869565+00:00",
+  "generated_at": "2026-09-04T10:38:24.167349+00:00",
   "threshold": 4
 }

@@ -1,0 +1,15 @@
+{
+  "byte_length": 395824,
+  "company_slug": "samsung",
+  "content_type": "text/html; charset=UTF-8",
+  "fetched_at": "2026-09-05T09:49:37.365272+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Samsung Privacy Policy (US)",
+  "policy_region": "US",
+  "sha256": "7ef068737aad612bf2d3416c0bcb7813f30e1a4b5eb7bd9d585ac0e5de31c54e",
+  "snapshot_date": "2026-09-05",
+  "source": "live",
+  "text_length": 28678,
+  "url": "https://www.samsung.com/us/account/privacy-policy/"
+}

@@ -1,6 +1,47 @@
 {
   "changes": [
     {
+      "added_count": 0,
+      "company_name": "PayPal",
+      "company_slug": "paypal",
+      "date": "2026-09-10",
+      "from_date": "2026-09-09",
+      "id": "paypal-privacy_policy-us-2026-09-09-2026-09-10",
+      "modified_count": 2,
+      "policy_kind": "privacy_policy",
+      "policy_label": "PayPal Privacy Statement (US)",
+      "removed_count": 0,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-09-10",
+      "url": "https://www.paypal.com/us/legalhub/privacy-full"
+    },
+    {
+      "added_count": 2,
+      "company_name": "Microsoft",
+      "company_slug": "microsoft",
+      "date": "2026-09-10",
+      "from_date": "2026-09-09",
+      "id": "microsoft-privacy_policy-2026-09-09-2026-09-10",
+      "modified_count": 10,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Microsoft Privacy Statement",
+      "removed_count": 1,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-09-10",
+      "url": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
       "added_count": 3,
       "company_name": "Pinterest",
       "company_slug": "pinterest",
@@ -3818,6 +3859,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-09-09T10:56:15.790310+00:00",
+  "generated_at": "2026-09-10T10:42:37.398117+00:00",
   "threshold": 4
 }

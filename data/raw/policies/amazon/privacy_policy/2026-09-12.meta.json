@@ -1,0 +1,15 @@
+{
+  "byte_length": 386828,
+  "company_slug": "amazon",
+  "content_type": "text/html;charset=UTF-8",
+  "fetched_at": "2026-09-12T09:55:58.079100+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Amazon Privacy Notice",
+  "policy_region": null,
+  "sha256": "a041a3b258c0d15605a98040544e8d6f135bcc47392253605dff95e5ae92d290",
+  "snapshot_date": "2026-09-12",
+  "source": "live",
+  "text_length": 24350,
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ"
+}

@@ -1,6 +1,25 @@
 {
   "changes": [
     {
+      "added_count": 18,
+      "company_name": "Anthropic",
+      "company_slug": "anthropic",
+      "date": "2026-09-12",
+      "from_date": "2026-09-11",
+      "id": "anthropic-privacy_policy-2026-09-11-2026-09-12",
+      "modified_count": 0,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Anthropic Privacy Policy",
+      "removed_count": 5,
+      "score": 6,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2026-09-12",
+      "url": "https://www.anthropic.com/legal/privacy"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -4765,5 +4784,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-09-11T10:44:21.109069+00:00"
+  "generated_at": "2026-09-12T10:14:38.605793+00:00"
 }

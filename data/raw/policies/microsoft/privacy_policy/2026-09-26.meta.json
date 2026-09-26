@@ -1,0 +1,15 @@
+{
+  "byte_length": 339836,
+  "company_slug": "microsoft",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-09-26T10:38:43.917133+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Microsoft Privacy Statement",
+  "policy_region": null,
+  "sha256": "b4fb9539912e3b4239674a83f1f4ea08a8be018e673aeedf7bcb27986cc578c4",
+  "snapshot_date": "2026-09-26",
+  "source": "live",
+  "text_length": 210745,
+  "url": "https://privacy.microsoft.com/en-us/privacystatement"
+}

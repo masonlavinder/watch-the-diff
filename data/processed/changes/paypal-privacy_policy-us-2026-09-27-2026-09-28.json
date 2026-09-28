@@ -1,0 +1,44 @@
+{
+  "added_paragraphs": [],
+  "company_name": "PayPal",
+  "company_slug": "paypal",
+  "date": "2026-09-28",
+  "from_date": "2026-09-27",
+  "id": "paypal-privacy_policy-us-2026-09-27-2026-09-28",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Our Services may be accessed by individuals without a PayPal account or profile. We will collect Personal Information from you even if you are a non-account holder when you use our Services, such as when you use our Pay without a PayPal Account, use Unbranded Payment Services (e.g., Braintree), use a Fastlane profile, or when you receive a payment from a PayPal account holder (through the Visa+ service or other third party wallets, payment networks, and processors) or a payment from a payor using the Hyperwallet services. If you Pay without a PayPal account, we may link your transaction information with your PayPal account if you create a PayPal account later.",
+      "before": "Our Services may be accessed by individuals without a PayPal account or profile. We will collect Personal Information from you even if you are a non-account holder when you use our Services, such as when you use our Pay without a PayPal Account, use Unbranded Payment Services (e.g., Braintree), use a Fastlane profile, or when you receive a payment through the Visa+ service from a PayPal account holder or a payment from a payor using the Hyperwallet services. If you Pay without a PayPal account, we may link your transaction information with your PayPal account if you create a PayPal account later."
+    },
+    {
+      "after": "| Mexico | Operadora PayPal de M\u00e9xico, S. de R.L. de C.V Boulevard Manuel \u00c1vila Camacho 137, Piso 7, Polanco I Secci\u00f3n, Alcald\u00eda Miguel Hidalgo, C.P. 11550, Ciudad de M\u00e9xico, M\u00e9xico Contact Online for Privacy queries |",
+      "before": "| Mexico | Operadora PayPal de M\u00e9xico, S. de R.L. de C.V Avenida General Mariano Escobedo 476, 14th Floor, Colonia Nueva Anzures, Miguel Hidalgo, Mexico City, Mexico 11590 Contact Online for Privacy queries |"
+    },
+    {
+      "after": "| For our affiliates' everyday business purposes \u2013 information about your creditworthiness | No | We don't share |",
+      "before": "| For our affiliates' everyday business purposes \u2013 information about your creditworthiness | Yes | Yes |"
+    },
+    {
+      "after": "| For our affiliates to market to you | No | We don't share |",
+      "before": "| For our affiliates to market to you | Yes | Yes |"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing"
+  ],
+  "to_date": "2026-09-28",
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

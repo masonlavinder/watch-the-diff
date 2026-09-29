@@ -1,0 +1,116 @@
+{
+  "added_paragraphs": [
+    "https://go.microsoft.com/fwlink/?linkid=2132733",
+    "(https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse), together with these Terms."
+  ],
+  "company_name": "Microsoft",
+  "company_slug": "microsoft",
+  "date": "2026-09-29",
+  "from_date": "2026-09-28",
+  "id": "microsoft-terms_of_service-2026-09-28-2026-09-29",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "(https://www.microsoft.com/servicesagreement/upcoming#serviceslist) and any other Microsoft consumer products, websites and services that reference these Terms (the \u201c",
+      "before": "(https://www.microsoft.com/servicesagreement#serviceslist) (the \u201c"
+    },
+    {
+      "after": "By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of majority where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help. If you are the parent or legal guardian of a minor, you and the minor accept and agree to be bound by these Terms and are responsible for all use of the Microsoft account or Services, including purchases, whether the minor\u2019s account is now open or created later.",
+      "before": "By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of \"majority\" where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help. If you are the parent or legal guardian of a minor, you and the minor accept and agree to be bound by these Terms and are responsible for all use of the Microsoft account or Services, including purchases, whether the minor\u2019s account is now open or created later."
+    },
+    {
+      "after": "\") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account (e.g., the \u201cmandate\u201d in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors, issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits. You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account. Contact customer support as outlined above in section 4.f as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge that you have read, understand and agree to these Terms.",
+      "before": "\") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account (e.g., the \u201cmandate\u201d in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors, issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits. You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account. Contact customer support as outlined above in section 4.e as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge that you have read, understand and agree to these Terms."
+    },
+    {
+      "after": "Microsoft will automatically check for and download updates to your applications, even if you\u2019re not signed into the relevant Store. You can change your Store or system settings if you prefer to pause automatic updates to Store applications. However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer and may not require your permission to update. Some other apps may not be accessible until you accept an update. If you choose not to download or install updates, your applications may no longer be available, supported, or have previous functionality.",
+      "before": "Microsoft will automatically check for and download updates to your applications, even if you\u2019re not signed into the relevant Store. You can change your Store or system settings if you prefer not to receive automatic updates to Store applications. However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer and may not require your permission to update."
+    },
+    {
+      "after": ") are only for your personal and noncommercial use. As of 2024, Microsoft no longer supports Cortana Services.",
+      "before": ") are only for your personal and noncommercial use."
+    },
+    {
+      "after": "Use of apps such as Word, Excel, PowerPoint, Outlook, OneDrive, Access, and Publisher in Microsoft 365 Personal, Microsoft 365 Family, Microsoft 365 Premium, and any other Microsoft 365 app or subscription Service is governed by supplemental license terms located at",
+      "before": "Microsoft 365 Family, Microsoft 365 Personal, Microsoft 365 Basic, Sway, OneNote.com and any other Microsoft 365 app or Service or Office-branded Service is for your personal, noncommercial use, unless you have commercial use rights under a separate agreement with Microsoft. Use of apps such as Word, Excel, PowerPoint, Outlook, OneDrive, Access, and Publisher in Microsoft 365 Family, Microsoft 365 Personal, and any other Microsoft 365 app or subscription Service is governed by supplemental license terms located at"
+    },
+    {
+      "after": "Through Microsoft Movies & TV, Store, XBOX Services and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material (",
+      "before": "Through Microsoft Groove, Microsoft Movies & TV, Store, XBOX Services and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material ("
+    },
+    {
+      "after": "iii. Certain restrictions and limitations apply to earning, redeeming, and other uses of Points in the Rewards Program. For more information see the Microsoft Support Rewards section at",
+      "before": "iii. Certain restrictions and limitations apply to earning, redeeming, and other uses of Points in the Rewards Program. For more information see the Rewards section at"
+    },
+    {
+      "after": "ix. Microsoft may update or discontinue offering specific Redemption Options at any time for any reason. Some Redemption Options may have age or Region eligibility requirements, or other terms or conditions on their redemption or use. Any such requirements or conditions will be included in the relevant redemption offer. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Redemption Option. Rewards will be emailed to the email address associated with your Microsoft account, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards may not be resold. You may redeem (i) no more than 550,000 Rewards Program Points per calendar year for Redemption Options for products and services of Microsoft\u2019s authorized third parties, and (ii) 1,550,000 Rewards Program Points per calendar year for Redemption Options for Microsoft\u2019s own products and services, or such higher annual limits for (i) or (ii) as Microsoft may permit in its sole discretion.",
+      "before": "ix. Microsoft may update or discontinue offering specific Redemption Options at any time for any reason. Some Redemption Options may have age or Region eligibility requirements, or other terms or conditions on their redemption or use. Any such requirements or conditions will be included in the relevant redemption offer. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Redemption Option. Rewards will be emailed to the email address associated with your Microsoft account, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards may not be resold. You may redeem no more than 550,000 Points per calendar year in the Rewards Program."
+    },
+    {
+      "after": "Your use of Copilot is governed by the supplemental terms and conditions under which you obtained those services, as detailed at",
+      "before": "Your use of Copilot AI Experiences (except Copilot with commercial data protection) is governed by the supplemental terms and conditions under which you obtained those services as detailed at"
+    },
+    {
+      "after": "binding individual arbitration before JAMS under the Federal Arbitration Act (\"FAA\"), and not to sue in court in front of a judge or jury",
+      "before": "binding individual arbitration before the American Arbitration Association (\"AAA\") under the Federal Arbitration Act (\"FAA\"), and not to sue in court in front of a judge or jury"
+    },
+    {
+      "after": "Class action lawsuits, class-wide arbitrations, private attorney-general actions, requests for public injunctions, and any other proceeding or request for relief where someone acts in a representative capacity aren\u2019t allowed. Nor is combining individual proceedings without the consent of all parties. The procedural and substantive provisions of the FAA govern this Section 15, including its enforcement.",
+      "before": "Class action lawsuits, class-wide arbitrations, private attorney-general actions, requests for public injunctions, and any other proceeding or request for relief where someone acts in a representative capacity aren\u2019t allowed. Nor is combining individual proceedings without the consent of all parties."
+    },
+    {
+      "after": ". Complete that form in full, with all the information it requires. We\u2019ll do the same if we have a dispute with you. This Notice of Dispute is a prerequisite to initiating any arbitration. Any applicable statute of limitations will be tolled from the date of an individualized Notice of Dispute through the first date on which an arbitration may properly be filed under this section 15.",
+      "before": ". Complete that form in full, with all the information it requires. We\u2019ll do the same if we have a dispute with you. This Notice of Dispute is a prerequisite to initiating any arbitration. Any applicable statute of limitations will be tolled from the date of a properly submitted individualized Notice of Dispute through the first date on which an arbitration may properly be filed under this section 15."
+    },
+    {
+      "after": "JAMS will conduct any arbitration under its Comprehensive Arbitration Rules & Procedures. If you are an individual and use the Services for personal or household use, or if the value of the dispute is less than $75,000 whether or not you are an individual or how you use the Services, JAMS will conduct any arbitration under its Streamlined Arbitration Rules & Procedures. JAMS Mass Arbitration Procedures and Guidelines, as modified by this section 15, will apply in Related Cases (discussed below). For more information on JAMS rules, see",
+      "before": "The AAA will conduct any arbitration under its Commercial Arbitration Rules (or if you are an individual and use the Services for personal or household use, or if the value of the dispute is less than $75,000 whether or not you are an individual or how you use the Services, its Consumer Arbitration Rules). The AAA\u2019s Mass Arbitration Supplementary Rules, as modified by this section 15, will apply in Related Cases (discussed below). For more information, see"
+    },
+    {
+      "after": "Section 15 and these Terms govern to the extent they conflict with any applicable JAMS rules.",
+      "before": "Section 15 and these Terms govern to the extent they conflict with any applicable AAA rules."
+    },
+    {
+      "after": "to JAMS and mail a copy to us. The form must contain information that is specific to you and your claim. In a dispute involving $25,000 or less, any hearing will be telephonic or by videoconference unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or, if a business, your principal place of business). The arbitrator may award the same damages to you individually as a court could.",
+      "before": "to the AAA and mail a copy to us. The form must contain information that is specific to you and your claim. In a dispute involving $25,000 or less, any hearing will be telephonic or by videoconference unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or, if a business, your principal place of business). The arbitrator may award the same damages to you individually as a court could."
+    },
+    {
+      "after": "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be \u201cRelated Cases.\u201d You and we agree that the JAMS Mass Arbitration Procedures and Guidelines in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; (iii) after the first batch is completed, the parties must engage in a single mediation of all remaining Related Cases, and we will pay the mediation fee; and (iv) if the mediation is unsuccessful at resolving the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15, followed by a second mediation in which the parties must participate and for which we will pay the mediation fee. This staged process will continue until the parties resolve all Related Cases informally, through mediation, or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.",
+      "before": "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be \u201cRelated Cases.\u201d You and we agree that the AAA\u2019s Mass Arbitration Supplementary Rules in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph."
+    },
+    {
+      "after": "The JAMS rules will govern payment of filing fees and the arbitrator\u2019s fees and expenses.",
+      "before": "The AAA rules will govern payment of filing fees and the AAA\u2019s arbitrator\u2019s fees and expenses."
+    },
+    {
+      "after": "In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we will promptly reimburse your filing fees and pay JAMS\u2019s and the arbitrator\u2019s fees and expenses; and (2) if, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and (ii) for any reasonable attorney\u2019s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration.",
+      "before": "In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we will promptly reimburse your filing fees and pay the AAA\u2019s and arbitrator\u2019s fees and expenses; and (2) if, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney\u2019s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration."
+    }
+  ],
+  "policy_kind": "terms_of_service",
+  "policy_label": "Microsoft Services Agreement",
+  "removed_paragraphs": [
+    "Cortana provides a range of features, some of which are personalized. Cortana Services may allow you to access services, information or functionality provided by other Microsoft Services or Third-Party Apps and Services. The service-specific Terms of section 14 also apply to your use of applicable Microsoft Services accessed through Cortana Services. Cortana provides information for your planning purposes only and you should exercise your own independent judgment when reviewing and relying on this information. Microsoft does not guarantee the reliability, availability or timeliness of personalized experiences provided by Cortana. Microsoft is not responsible if a Cortana feature delays or prevents you from receiving, reviewing or sending a communication or notification, or obtaining a service.",
+    "As part of delivering the Cortana Services, Cortana may suggest and help you interact with Third-Party Apps and Services (third-party skills or connected services). If you choose, Cortana may exchange information with Third-Party Apps and Services, such as your zip code and queries and responses returned by the Third-Party App and Services, to help you obtain requested services. Cortana may enable you to make purchases through Third-Party Apps and Services using the account preferences and settings you have established directly with those Third-Party Apps and Services. You can disconnect your Cortana Service from Third-Party Apps and Services at any time. Your use of Cortana Services to connect with Third-Party Apps and Services is subject to section 5 of these Terms. Publishers of Third-Party Apps and Services may change or discontinue the functionality or features of their Third-Party Apps and Services or integration with Cortana Services. Microsoft is not responsible or liable for manufacturer provided software or firmware.",
+    "Cortana-enabled devices are products or devices that are enabled to access Cortana Services,",
+    "or products or devices that are compatible with Cortana Services. Cortana-enabled devices include third-party devices or products that",
+    "Microsoft does not own, manufacture, or develop. Microsoft is not responsible or liable for these third-party devices or products.",
+    "We may automatically check your version of Cortana Services software and download software updates or configuration change or require any manufacturers of Cortana enabled devices to keep the Cortana Services software up to date.",
+    "(https://www.bing.com/new/termsofuse#content-policy) together with these Terms. If you are a Microsoft Copilot with commercial data protection user, please visit this page to review the terms of use that apply to you, together with these Terms:"
+  ],
+  "score": 7,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 4,
+    "total": 7
+  },
+  "source_type": "policy",
+  "tags": [
+    "third-party-sharing",
+    "minors"
+  ],
+  "to_date": "2026-09-29",
+  "url": "https://www.microsoft.com/en-us/servicesagreement"
+}

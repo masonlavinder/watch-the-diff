@@ -1,0 +1,32 @@
+{
+  "added_paragraphs": [],
+  "company_name": "PayPal",
+  "company_slug": "paypal",
+  "date": "2026-10-01",
+  "from_date": "2026-09-30",
+  "id": "paypal-privacy_policy-us-2026-09-30-2026-10-01",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "| Brazil | PayPal do Brasil Institui\u00e7\u00e3o de Pagamento Ltda. Attention: Legal Department Avenida Paulista, 1048 13th Floor, CEP 01310-100 Sio Paulo, SP \u2013 Brazil Contact Online for Privacy queries In compliance with LGPD article 41, the identity and contact information of the Data Protection Officer (DPO) and of his deputy (Deputy DPO) are the following: Data Protection Officer (DPO): Daniel Douglas Diniz DPO contact e-mail: latamdpo@paypal.com Deputy Data Protection Officer: Fabiana Moreira Chaves Deputy DPO contact e-mail: latamdpo@paypal.com |",
+      "before": "| Brazil | PayPal do Brasil Institui\u00e7\u00e3o de Pagamento Ltda. Attention: Legal Department Avenida Paulista, 1048 13th Floor, CEP 01310-100 Sio Paulo, SP \u2013 Brazil Contact Online for Privacy queries |"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "PayPal Privacy Statement (US)",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-10-01",
+  "url": "https://www.paypal.com/us/legalhub/privacy-full"
+}

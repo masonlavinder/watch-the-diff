@@ -1,0 +1,38 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Google",
+  "company_slug": "google",
+  "date": "2026-10-02",
+  "from_date": "2026-10-01",
+  "id": "google-privacy_policy-2026-10-01-2026-10-02",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Google also collects and uses data that is not associated with your account. For example, when you\u2019re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you\u2019re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices.",
+      "before": "Google also collects and uses data that is not associated with your account. For example, when you\u2019re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you\u2019re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity."
+    },
+    {
+      "after": "- Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.",
+      "before": "- Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share. Learn more"
+    },
+    {
+      "after": "When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.",
+      "before": "When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. Learn more"
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Google Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-10-02",
+  "url": "https://policies.google.com/privacy"
+}

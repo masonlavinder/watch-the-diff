@@ -1,0 +1,15 @@
+{
+  "byte_length": 515665,
+  "company_slug": "google",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-07T12:28:46.921412+00:00",
+  "http_status": 200,
+  "policy_kind": "ai_terms",
+  "policy_label": "Google Generative AI Additional Terms",
+  "policy_region": null,
+  "sha256": "eef5bbb5cfd46233b41ced8802ac5ae8207d4a17667f34110b535896eb3d5c18",
+  "snapshot_date": "2026-10-07",
+  "source": "live",
+  "text_length": 2063,
+  "url": "https://policies.google.com/terms/generative-ai"
+}

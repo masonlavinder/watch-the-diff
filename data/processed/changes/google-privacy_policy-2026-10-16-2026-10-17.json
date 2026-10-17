@@ -1,0 +1,44 @@
+{
+  "added_paragraphs": [
+    "If you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalize your experience. For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel. Learn more about Personal Intelligence."
+  ],
+  "company_name": "Google",
+  "company_slug": "google",
+  "date": "2026-10-17",
+  "from_date": "2026-10-16",
+  "id": "google-privacy_policy-2026-10-16-2026-10-17",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you\u2019ve already installed and videos you\u2019ve watched on YouTube to suggest new apps you might like. You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.",
+      "before": "We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you\u2019ve already installed and videos you\u2019ve watched on YouTube to suggest new apps you might like."
+    },
+    {
+      "after": "Depending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for \u201cmountain bikes,\u201d in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.",
+      "before": "Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services. For example, if you search for \u201cmountain bikes,\u201d you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center."
+    },
+    {
+      "after": "- We don\u2019t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.",
+      "before": "- We don\u2019t show you personalized ads based on your content from Drive, Gmail, or Photos."
+    },
+    {
+      "after": "When you\u2019re signed in, you can always review and update information by visiting the services you use. For example, Google Photos and Drive are both designed to help you manage specific types of content you\u2019ve saved with Google.",
+      "before": "When you\u2019re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you\u2019ve saved with Google."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Google Privacy Policy",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-10-17",
+  "url": "https://policies.google.com/privacy"
+}

@@ -1,6 +1,23 @@
 {
   "changes": [
     {
+      "added_count": 1,
+      "company_name": "Google",
+      "company_slug": "google",
+      "date": "2026-10-17",
+      "from_date": "2026-10-16",
+      "id": "google-privacy_policy-2026-10-16-2026-10-17",
+      "modified_count": 4,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Google Privacy Policy",
+      "removed_count": 0,
+      "score": 3,
+      "source_type": "policy",
+      "tags": [],
+      "to_date": "2026-10-17",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -5183,5 +5200,5 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-10-16T10:43:46.757140+00:00"
+  "generated_at": "2026-10-17T10:15:51.885233+00:00"
 }

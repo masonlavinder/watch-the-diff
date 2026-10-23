@@ -1,0 +1,32 @@
+{
+  "added_paragraphs": [],
+  "company_name": "Uber",
+  "company_slug": "uber",
+  "date": "2026-10-23",
+  "from_date": "2026-10-22",
+  "id": "uber-privacy_policy-2026-10-22-2026-10-23",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "UTI, and its subsidiary Uber AI solutions LLC, have certified to the United States Department of Commerce that they adhere to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF. In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern. In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above.",
+      "before": "UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF. In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern. In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "Uber Privacy Notice",
+  "removed_paragraphs": [],
+  "score": 5,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 2,
+    "total": 5
+  },
+  "source_type": "policy",
+  "tags": [
+    "regional-carveout"
+  ],
+  "to_date": "2026-10-23",
+  "url": "https://privacy.uber.com/policy/"
+}

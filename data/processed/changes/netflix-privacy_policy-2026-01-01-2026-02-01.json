@@ -66,7 +66,7 @@
   "date": "2026-02-01",
   "from_date": "2026-01-01",
   "id": "netflix-privacy_policy-2026-01-01-2026-02-01",
-  "llm_summary": "The Netflix Privacy Statement now includes a specific section for California residents, detailing their rights under the California Consumer Privacy Act (CCPA) and the categories of personal information collected. Additionally, some paragraphs were removed that previously outlined legal bases for data collection and international transfer details, while the language around advertisements and safety measures was slightly modified but remains largely the same. Overall, the updates provide more clarity for users in California regarding their privacy rights.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "To support Advertisements including to provide, analyze, administer, enhance, optimize, select, deliver, and measure Advertisements. We use the following categories of personal information for this purpose: personal details, Netflix account/profile information, usage information, advertising information, and device and network information.",

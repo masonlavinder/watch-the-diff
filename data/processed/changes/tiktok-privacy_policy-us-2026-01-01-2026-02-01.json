@@ -42,7 +42,7 @@
   "date": "2026-02-01",
   "from_date": "2026-01-01",
   "id": "tiktok-privacy_policy-us-2026-01-01-2026-02-01",
-  "llm_summary": "The TikTok Privacy Policy has been updated to clarify the types of information collected, including user-generated content, AI interactions, and sensitive personal information. It also specifies that the policy applies to all TikTok services and includes a section on consumer health data in accordance with state laws. Additionally, some previously listed information categories have been rephrased or removed for clarity.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We collect your information in three ways: information that you provide, automatically collected information, and information from other sources. More detail is provided below.",

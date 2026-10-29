@@ -23,7 +23,7 @@
   "date": "2026-06-09",
   "from_date": "2026-06-08",
   "id": "anthropic-privacy_policy-2026-06-08-2026-06-09",
-  "llm_summary": "The Anthropic Privacy Policy was updated to clarify the types of data collected, including study participation and verification data, and to specify that users are responsible for ensuring they have the rights to any inputs they provide. Changes also include a more detailed explanation of how user inputs may interact with third-party services and a shift in language regarding feedback storage. Additionally, the policy now emphasizes that it does not apply to data processed on behalf of commercial customers.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website, Claude.ai, or other Anthropic products and services (the \u201cServices\u201d). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our Enterprise accounts. Our use of that data is governed by our customer agreements covering access to and use of those offerings.",

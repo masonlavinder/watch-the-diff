@@ -9,7 +9,7 @@
   "date": "2025-05-01",
   "from_date": "2025-04-01",
   "id": "pinterest-privacy_policy-2025-04-01-2025-05-01",
-  "llm_summary": "Pinterest's updated privacy policy now includes a State Privacy Law Disclosure specifically for U.S. residents, detailing their rights and choices regarding personal data. The policy also expands on how Pinterest uses personal data for training AI models and clarifies data sharing practices for users outside the EEA, Switzerland, and the UK. Additionally, there were minor updates to the wording and structure of existing sections, but no substantive changes were made to the overall data practices.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We added more details on how we train the models that support our products and services including those using generative artificial intelligence, how long we keep your information, and changes to our international data transfer mechanisms. If you are outside of the EEA, Switzerland, or the United Kingdom, we\u2019ve outlined how we may share data with partners to allow advertisers to reach you on other websites and apps.",

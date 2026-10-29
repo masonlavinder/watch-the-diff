@@ -14,7 +14,7 @@
   "date": "2026-05-16",
   "from_date": "2026-05-15",
   "id": "adobe-ai_terms-2026-05-15-2026-05-16",
-  "llm_summary": "Adobe's Generative AI User Guidelines now include new paragraphs clarifying that user prompts and generated results may be reviewed for abuse prevention, and that users are responsible for ensuring compliance with laws when customizing AI features. Additionally, the guidelines emphasize that outputs from generative AI are for informational purposes only and do not constitute professional advice. Some previous paragraphs were removed, including those about the use of generative AI for training other AI models and the review of prompts in Creative Cloud products.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "Do not use Adobe\u2019s generative AI features in a way that violates applicable laws or harms others. For example, you must not:",

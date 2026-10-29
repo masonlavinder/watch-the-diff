@@ -10,7 +10,7 @@
   "date": "2025-06-02",
   "from_date": "2025-05-02",
   "id": "spotify-privacy_policy-us-2025-05-02-2025-06-02",
-  "llm_summary": "Spotify's updated privacy policy now specifies that if voice features are available in a user's market, the company will collect and process voice data, including audio recordings and transcripts. The policy also clarifies that data can be collected when users update their accounts, and it emphasizes the use of personal data for developing AI features and improving personalized recommendations. Additionally, the statistics chart now reflects data from 2024 instead of 2023, and a paragraph about data received from third parties has been removed.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "| Collected when you sign up for the Spotify Service or when you update your account | |",

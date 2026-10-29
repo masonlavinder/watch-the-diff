@@ -7,7 +7,7 @@
   "date": "2026-05-13",
   "from_date": "2026-04-19",
   "id": "adobe-ai_terms-2026-04-19-2026-05-13",
-  "llm_summary": "The Adobe Generative AI User Guidelines now include a new paragraph advising users not to input sensitive personal information, such as health records or precise location details, unless the generative AI feature is specifically designed for that purpose. No other paragraphs were modified or removed in this update.",
+  "llm_summary": null,
   "modified_paragraphs": [],
   "policy_kind": "ai_terms",
   "policy_label": "Adobe Generative AI User Guidelines",

@@ -5,7 +5,7 @@
   "date": "2025-12-01",
   "from_date": "2025-11-01",
   "id": "linkedin-privacy_policy-2025-11-01-2025-12-01",
-  "llm_summary": "LinkedIn's privacy policy now specifies that they may receive information from Microsoft about user engagement with their sites and services, in addition to data users choose to send. The policy also clarifies that personal data is not shared with non-Affiliated third-party advertisers, and it emphasizes the need for explicit, opt-in consent from users before processing their data. Overall, these changes provide more detail on data sharing practices and user consent mechanisms.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We receive data about you when you use some of the other services provided by us or our Affiliates, including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services or we may receive information from Microsoft about your engagement with their sites and services.",

@@ -118,7 +118,7 @@
   "date": "2026-04-22",
   "from_date": "2024-11-01",
   "id": "paypal-privacy_policy-us-2024-11-01-2026-04-22",
-  "llm_summary": "PayPal's updated Privacy Statement includes new sections clarifying the processing of personal information, especially regarding third-party interactions and jurisdiction-specific rights. It also introduces the use of AI tools and outlines user rights related to data sharing and consent withdrawal. Additionally, some previously included details about services like Fastlane and Visa+ have been removed or rephrased for clarity.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We encourage you to read this Privacy Statement and to use it to help you make informed decisions. Certain capitalized terms that are not otherwise defined in this Privacy Statement are explained in Definitions.",

@@ -280,7 +280,7 @@
   "date": "2026-06-26",
   "from_date": "2026-06-25",
   "id": "microsoft-privacy_policy-2026-06-25-2026-06-26",
-  "llm_summary": "Microsoft has updated its Privacy Statement to improve readability and clarity, providing more detailed information about the types of personal data collected, including contact details, account credentials, and device usage data. The section on data collection from children has been expanded, and some paragraphs have been rephrased for consistency and clarity. Additionally, certain paragraphs have been removed or consolidated, but no substantive changes to data practices were noted.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "Microsoft complies with the EU-U.S., UK Extension to the EU-U.S., and Swiss-U.S. Data Privacy Frameworks. To learn more, see the Storage and processing of personal data section, and visit the U.S. Department of Commerce\u2019s Data Privacy Framework website.",

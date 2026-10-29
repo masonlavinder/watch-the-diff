@@ -7,7 +7,7 @@
   "date": "2026-04-03",
   "from_date": "2026-03-01",
   "id": "x-privacy_policy-xai-2026-03-01-2026-04-03",
-  "llm_summary": "The privacy policy for xAI (Grok) has been updated to clarify that Google Apps content accessed via Google OAuth will not be used for AI training purposes. The section on marketing has been revised to explicitly state that personal information will not be collected or shared for marketing. Additionally, the process for exercising rights and appealing decisions has been updated with a new link for submitting requests.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "We do not sell your personal information or use it for marketing: We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes. We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing.",

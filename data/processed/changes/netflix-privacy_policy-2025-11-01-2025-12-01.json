@@ -16,7 +16,7 @@
   "date": "2025-12-01",
   "from_date": "2025-11-01",
   "id": "netflix-privacy_policy-2025-11-01-2025-12-01",
-  "llm_summary": "The Netflix Privacy Statement has added specific legal bases for collecting and using personal information, including contractual necessity, legitimate interests, compliance with legal obligations, and consent. It also includes new sections on international data transfers from the EEA and UK, as well as supplemental privacy disclosures for those regions. Additionally, several paragraphs related to the California Consumer Privacy Act (CCPA) have been removed.",
+  "llm_summary": null,
   "modified_paragraphs": [
     {
       "after": "To support Advertisements including to provide, analyze, administer, enhance, optimize, select, deliver and measure Advertisements. We use the following categories of personal information for this purpose: personal details, Netflix account/profile information, usage information, advertising information, and device and network information.",

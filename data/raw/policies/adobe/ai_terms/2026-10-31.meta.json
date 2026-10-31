@@ -1,0 +1,15 @@
+{
+  "byte_length": 28067,
+  "company_slug": "adobe",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-10-31T11:33:00.920979+00:00",
+  "http_status": 200,
+  "policy_kind": "ai_terms",
+  "policy_label": "Adobe Generative AI User Guidelines",
+  "policy_region": null,
+  "sha256": "383fdc9ad78f02a3b489a39065198d2ae813e0e2a1b3515b4d289917aa3f983d",
+  "snapshot_date": "2026-10-31",
+  "source": "live",
+  "text_length": 4637,
+  "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html"
+}

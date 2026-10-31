@@ -1,6 +1,47 @@
 {
   "changes": [
     {
+      "added_count": 1,
+      "company_name": "OpenAI",
+      "company_slug": "openai",
+      "date": "2026-10-31",
+      "from_date": "2026-04-02",
+      "id": "openai-terms_of_service-2026-04-02-2026-10-31",
+      "modified_count": 21,
+      "policy_kind": "terms_of_service",
+      "policy_label": "OpenAI Terms of Use",
+      "removed_count": 2,
+      "score": 5,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing"
+      ],
+      "to_date": "2026-10-31",
+      "url": "https://openai.com/policies/row-terms-of-use/"
+    },
+    {
+      "added_count": 22,
+      "company_name": "OpenAI",
+      "company_slug": "openai",
+      "date": "2026-10-31",
+      "from_date": "2026-03-09",
+      "id": "openai-privacy_policy-2026-03-09-2026-10-31",
+      "modified_count": 46,
+      "policy_kind": "privacy_policy",
+      "policy_label": "OpenAI Privacy Policy",
+      "removed_count": 17,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "data-retention-change",
+        "third-party-sharing",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-10-31",
+      "url": "https://openai.com/policies/row-privacy-policy/"
+    },
+    {
       "added_count": 0,
       "company_name": "PayPal",
       "company_slug": "paypal",
@@ -4446,6 +4487,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-10-30T12:22:43.181358+00:00",
+  "generated_at": "2026-10-31T11:50:09.114015+00:00",
   "threshold": 4
 }

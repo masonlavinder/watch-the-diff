@@ -1,0 +1,15 @@
+{
+  "byte_length": 111860,
+  "company_slug": "discord",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-04T13:38:48.378286+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Discord Privacy Policy",
+  "policy_region": null,
+  "sha256": "b6f897d127d0a51ea000d77acd93fde3096e272359213fcf3e18daa1dff42dcc",
+  "snapshot_date": "2026-11-04",
+  "source": "live",
+  "text_length": 34826,
+  "url": "https://discord.com/privacy"
+}

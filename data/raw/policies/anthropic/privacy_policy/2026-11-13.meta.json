@@ -1,0 +1,15 @@
+{
+  "byte_length": 1217726,
+  "company_slug": "anthropic",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-13T13:46:23.592554+00:00",
+  "http_status": 200,
+  "policy_kind": "privacy_policy",
+  "policy_label": "Anthropic Privacy Policy",
+  "policy_region": null,
+  "sha256": "1d34e118eb08a526b2a7a505254f4c96ffb4e8163e48f7f8aa7d08ad6433b850",
+  "snapshot_date": "2026-11-13",
+  "source": "live",
+  "text_length": 34187,
+  "url": "https://www.anthropic.com/legal/privacy"
+}

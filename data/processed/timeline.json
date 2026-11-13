@@ -1,6 +1,27 @@
 {
   "changes": [
     {
+      "added_count": 6,
+      "company_name": "Pinterest",
+      "company_slug": "pinterest",
+      "date": "2026-11-13",
+      "from_date": "2026-11-12",
+      "id": "pinterest-privacy_policy-2026-11-12-2026-11-13",
+      "modified_count": 17,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Pinterest Privacy Policy",
+      "removed_count": 5,
+      "score": 9,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "third-party-sharing",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-11-13",
+      "url": "https://policy.pinterest.com/en/privacy-policy"
+    },
+    {
       "added_count": 17,
       "company_name": "Microsoft",
       "company_slug": "microsoft",
@@ -4550,6 +4571,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-11-12T14:50:53.023321+00:00",
+  "generated_at": "2026-11-13T14:02:24.530594+00:00",
   "threshold": 4
 }

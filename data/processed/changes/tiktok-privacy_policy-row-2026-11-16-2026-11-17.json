@@ -1,0 +1,30 @@
+{
+  "added_paragraphs": [],
+  "company_name": "TikTok",
+  "company_slug": "tiktok",
+  "date": "2026-11-17",
+  "from_date": "2026-11-16",
+  "id": "tiktok-privacy_policy-row-2026-11-16-2026-11-17",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "Methods of processing your personal data. We may process your personal data by manual or automated methods. We may also share certain Usage Information with sellers and creators, for example, to help them identify their most engaged customers.",
+      "before": "Methods of processing your personal data. We may process your personal data by manual or automated methods."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "TikTok Privacy Policy (ROW)",
+  "removed_paragraphs": [],
+  "score": 3,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 0,
+    "total": 3
+  },
+  "source_type": "policy",
+  "tags": [],
+  "to_date": "2026-11-17",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/en"
+}

@@ -1,0 +1,93 @@
+{
+  "added_paragraphs": [
+    "Last Updated: October 27, 2026 (previous version)",
+    "Provide useful features to simplify your experience with our Services;",
+    "Deliver relevant content and targeted advertising;",
+    "Monitor, evaluate and optimize the use and operation of our Site and applications; and",
+    "Analyze traffic on our sites and on third-party sites.",
+    "For details about our use of cookies, please read our Cookie Policy.",
+    "For the fastest response for world-wide requests and in the USA: SpaceX Super Intelligence LLC, https://x.ai/privacy-portal/",
+    "Information about our handling of California Consumer Privacy Act (CCPA) requests is available here"
+  ],
+  "company_name": "X",
+  "company_slug": "x",
+  "date": "2026-11-17",
+  "from_date": "2026-04-03",
+  "id": "x-privacy_policy-xai-2026-04-03-2026-11-17",
+  "llm_summary": null,
+  "modified_paragraphs": [
+    {
+      "after": "At SpaceX Super Intelligence LLC (\"SpaceXSI\", \"our\", \"us\" or \"we\"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app (iOS or Android) or the Grok.com website), and other SpaceXSI services (our \"Service\"). It also describes your privacy rights.",
+      "before": "At X.AI LLC (\"xAI\", \"our\", \"us\" or \"we\"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app (iOS or Android) or the Grok.com website), and other xAI services (our \"Service\"). It also describes your privacy rights."
+    },
+    {
+      "after": "This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the SpaceXSI API, or to any employment-related personal information processed in consideration of employment with SpaceXSI. This Privacy Policy also does not apply if you access our Service through a third-party\u2019s service. In that case, the third-party\u2019s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the X Privacy Policy and X Terms, not this SpaceXSI Privacy Policy.",
+      "before": "This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the xAI API, or to any employment-related personal information processed in consideration of employment with xAI. This Privacy Policy also does not apply if you access our Service through a third-party\u2019s service. In that case, the third-party\u2019s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the X Privacy Policy and X Terms, not this xAI Privacy Policy."
+    },
+    {
+      "after": "For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, \u201cEurope\u201d), for Europe-specific additional information not already discussed on this page, please see SpaceXSI\u2019s Europe Privacy Policy Addendum.",
+      "before": "For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, \u201cEurope\u201d), for Europe-specific additional information not already discussed on this page, please see xAI\u2019s Europe Privacy Policy Addendum."
+    },
+    {
+      "after": "SpaceXSI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed \u201cGrok,\u201d a conversational generative AI powered by SpaceXSI\u2019s large language models. More information about SpaceXSI\u2019s development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and SpaceXSI website. Please note that SpaceXSI is a separate company from X Corp. (\"X\", previously Twitter).",
+      "before": "xAI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed \u201cGrok,\u201d a conversational generative AI powered by xAI\u2019s large language models. More information about xAI\u2019s development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and xAI website. Please note that xAI is a separate company from X Corp. (\"X\", previously Twitter)."
+    },
+    {
+      "after": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into a SpaceXSI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.",
+      "before": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history."
+    },
+    {
+      "after": "Payment Data: Where payment is required to access the Service (ex., if you are paying for a subscription), or is otherwise used to make a purchase, we may, or a third-party may, have a third-party process payment information, such as payment card information, and details regarding your transactions for us.",
+      "before": "Payment Data: Where payment is required to access the Service (ex., if you are paying for a subscription), we may have a third-party process payment information, such as payment card information, and details regarding your transactions for us."
+    },
+    {
+      "after": "Cookies and Similar Technologies: We and our service providers use cookies and other similar technologies to operate and improve our Services. This data obtained from these cookies and similar technologies may be used for several different purposes, including to:",
+      "before": "Cookies and Similar Technologies: We and our service providers use cookies and other similar technologies to operate and improve our Services. Cookies help us to recognize you, customize or personalize your experience, analyze the use of our Services to make it safer and more useful to you. For details about our use of cookies, please read our Cookie Policy."
+    },
+    {
+      "after": "We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, SpaceXSI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.",
+      "before": "We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data."
+    },
+    {
+      "after": "The length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from SpaceXSI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.",
+      "before": "The length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from xAI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes."
+    },
+    {
+      "after": "SpaceXSI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security measure or method of data transmission over the internet is 100% secure. In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions.",
+      "before": "xAI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security measure or method of data transmission over the internet is 100% secure. In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions."
+    },
+    {
+      "after": "Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review SpaceXSI\u2019s Europe Privacy Policy Addendum.",
+      "before": "Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review xAI\u2019s Europe Privacy Policy Addendum."
+    },
+    {
+      "after": "Exercising your rights: Some of these rights may be exercised in the SpaceXSI Service but for others you will need to submit a request at https://x.ai/privacy-portal/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",
+      "before": "Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at https://x.ai/privacy-portal/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws."
+    }
+  ],
+  "policy_kind": "privacy_policy",
+  "policy_label": "xAI (Grok) Privacy Policy",
+  "removed_paragraphs": [
+    "We ask that you do NOT include personal information in your prompts and inputs into our Service; however, we cannot control what you provide to us.",
+    "Google Apps Using Google OAuth: For users who opt to connect to Google Apps via Google OAuth, xAI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.",
+    "We do not sell your personal information or use it for marketing: We do not sell personal information or share personal information for targeted or cross-contextual advertising purposes. We do not collect and use your personal information for marketing purposes and do not share your personal information with third-parties for the purpose of marketing."
+  ],
+  "score": 10,
+  "score_breakdown": {
+    "add_only": 0,
+    "content": 3,
+    "heading_keyword": 0,
+    "tags": 10,
+    "total": 10
+  },
+  "source_type": "policy",
+  "tags": [
+    "ai-training-expansion",
+    "data-retention-change",
+    "third-party-sharing",
+    "regional-carveout",
+    "biometric-facial"
+  ],
+  "to_date": "2026-11-17",
+  "url": "https://x.ai/legal/privacy-policy"
+}

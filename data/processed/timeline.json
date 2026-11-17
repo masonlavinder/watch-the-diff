@@ -1,6 +1,49 @@
 {
   "changes": [
     {
+      "added_count": 8,
+      "company_name": "X",
+      "company_slug": "x",
+      "date": "2026-11-17",
+      "from_date": "2026-04-03",
+      "id": "x-privacy_policy-xai-2026-04-03-2026-11-17",
+      "modified_count": 12,
+      "policy_kind": "privacy_policy",
+      "policy_label": "xAI (Grok) Privacy Policy",
+      "removed_count": 3,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "ai-training-expansion",
+        "data-retention-change",
+        "third-party-sharing",
+        "regional-carveout",
+        "biometric-facial"
+      ],
+      "to_date": "2026-11-17",
+      "url": "https://x.ai/legal/privacy-policy"
+    },
+    {
+      "added_count": 1,
+      "company_name": "Amazon",
+      "company_slug": "amazon",
+      "date": "2026-11-17",
+      "from_date": "2026-11-16",
+      "id": "amazon-privacy_policy-aws-2026-11-16-2026-11-17",
+      "modified_count": 1,
+      "policy_kind": "privacy_policy",
+      "policy_label": "AWS Privacy Notice",
+      "removed_count": 7,
+      "score": 7,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "minors"
+      ],
+      "to_date": "2026-11-17",
+      "url": "https://aws.amazon.com/privacy/"
+    },
+    {
       "added_count": 6,
       "company_name": "Pinterest",
       "company_slug": "pinterest",
@@ -4571,6 +4614,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-11-16T14:42:53.125362+00:00",
+  "generated_at": "2026-11-17T15:39:12.710007+00:00",
   "threshold": 4
 }

@@ -1,0 +1,15 @@
+{
+  "byte_length": 399679,
+  "company_slug": "openai",
+  "content_type": "text/html; charset=utf-8",
+  "fetched_at": "2026-11-19T15:03:02.428711+00:00",
+  "http_status": 200,
+  "policy_kind": "terms_of_service",
+  "policy_label": "OpenAI Terms of Use",
+  "policy_region": null,
+  "sha256": "dfd96f77025fa62d6863eca76bbc7b7b22de17668c06695821c448b5ffd611d0",
+  "snapshot_date": "2026-11-19",
+  "source": "live",
+  "text_length": 20082,
+  "url": "https://openai.com/policies/row-terms-of-use/"
+}

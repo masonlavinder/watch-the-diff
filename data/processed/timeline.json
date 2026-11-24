@@ -1,6 +1,29 @@
 {
   "changes": [
     {
+      "added_count": 5,
+      "company_name": "Discord",
+      "company_slug": "discord",
+      "date": "2026-11-24",
+      "from_date": "2026-11-23",
+      "id": "discord-privacy_policy-2026-11-23-2026-11-24",
+      "modified_count": 34,
+      "policy_kind": "privacy_policy",
+      "policy_label": "Discord Privacy Policy",
+      "removed_count": 1,
+      "score": 10,
+      "source_type": "policy",
+      "tags": [
+        "third-party-sharing",
+        "regional-carveout",
+        "dm-private-content",
+        "minors",
+        "opt-out-mechanism"
+      ],
+      "to_date": "2026-11-24",
+      "url": "https://discord.com/privacy"
+    },
+    {
       "added_count": 8,
       "company_name": "X",
       "company_slug": "x",
@@ -4614,6 +4637,6 @@
       "url": "https://www.anthropic.com/legal/consumer-terms"
     }
   ],
-  "generated_at": "2026-11-23T17:28:25.311127+00:00",
+  "generated_at": "2026-11-24T17:09:16.631699+00:00",
   "threshold": 4
 }
